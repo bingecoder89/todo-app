@@ -2,6 +2,8 @@
 
 A lightweight React todo application built with Tailwind CSS.
 
+Live demo: https://react-todo-app2003.netlify.app/
+
 ## Features
 
 - Add new todos
